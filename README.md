@@ -1,4 +1,4 @@
-# 👋 Hi <devs/>, I'm [Your Name]
+# 👋 Hi <devs/>, I'm Govind
 
-### Senior Data Engineer | Data Platform Architect | AI/LLM Enthusiast
+### Data Engineer | Data Platform Architect | AI/LLM Enthusiast
 > Building enterprise-scale data platforms that power real business decisions.
