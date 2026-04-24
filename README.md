@@ -7,12 +7,12 @@
 ---
 
 ## 🚀 About Me
-- 📍 Based in the United Kingdom (International Student)  
+- 📍 Based in the United Kingdom 
 - 🎓 MSc Data Analytics student at De Montfort University  
 - ⚡ Hands-on experience with **Python, SQL & PySpark**  
 - ☁️ Building modern data platforms using **Azure, Databricks & Microsoft Fabric**  
 - 🏗️ Strong foundation in **ETL pipelines, data modeling & analytics**  
-- 🎯 Career Goal: Become a **Data Engineer / Data Analyst in the UK**
+- 🎯 Career Goal: **Data Engineer / Data Analyst in the UK**
 
 ---
 
@@ -82,4 +82,4 @@ I am currently seeking:
 - ✅ Data Analyst roles  
 - ✅ Graduate roles in Data & Analytics (UK)  
 
-📌 Available for immediate opportunities, internships & part-time roles
+📌 Available for immediate opportunities, full time part-time roles
