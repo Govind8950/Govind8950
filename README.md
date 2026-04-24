@@ -71,7 +71,7 @@
 ---
 
 ## 📬 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- 💼 LinkedIn: https://www.linkedin.com/in/govindrajput/ 
 - 📧 Email: govindrajput8950@gmail.com  
 
 ---
